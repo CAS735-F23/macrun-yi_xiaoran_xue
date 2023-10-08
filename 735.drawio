@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-08T18:27:38.031Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="jqfOiD-33zUYe1jwX-kL" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-08T18:39:04.328Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Vrl2woClxE-eHdEngty5" version="22.0.4" type="github">
   <diagram name="第 1 页" id="Pl9FzLIbAxRlWu0UhjnY">
     <mxGraphModel dx="1604" dy="537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,16 +80,31 @@
           <mxGeometry x="1090" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6vW2rSn8wJDvR7UCQ_q-30" value="HRM" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#36393d;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FFE9E8;" vertex="1" parent="1">
-          <mxGeometry x="670" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6vW2rSn8wJDvR7UCQ_q-31" value="Start App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=hatch;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="490" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-32" value="Uploaded Heart Rate" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="920" y="510" width="120" height="60" as="geometry" />
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-32" value="Upload Heart Rate" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I6vW2rSn8wJDvR7UCQ_q-33" value="App" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="580" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-35" value="App Started" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="827" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-36" value="Upload Policy" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-37" value="Heart Rate Uploaded" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="827" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-38" value="Connect" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I6vW2rSn8wJDvR7UCQ_q-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="I6vW2rSn8wJDvR7UCQ_q-36" target="I6vW2rSn8wJDvR7UCQ_q-36">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
