@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T00:09:12.678Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="BrL6MqBU6s574GmKwVDu" version="22.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-12-06T21:45:35.181Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UGe2JRekAYeUI3TyG65p" version="22.1.7" type="github" pages="3">
   <diagram name="第 1 页" id="Pl9FzLIbAxRlWu0UhjnY">
     <mxGraphModel dx="3373" dy="2857" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1571,11 +1571,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="UdRP8n3MG-tA0bp-XavI" name="第 2 页">
-    <mxGraphModel dx="1622" dy="-2878" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="-2898" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-8DytawZk3W45QFedWNG-3" value="User Registed" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" parent="1" vertex="1">
+        <mxCell id="-8DytawZk3W45QFedWNG-3" value="App Launched" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#ffe6cc;" parent="1" vertex="1">
           <mxGeometry x="1079.95" y="4395.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-8DytawZk3W45QFedWNG-4" value="&lt;br&gt;Trail Allocate Policy" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#9673a6;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" parent="1" vertex="1">
@@ -1763,7 +1763,7 @@
         <mxCell id="-8DytawZk3W45QFedWNG-58" value="User Decision Policy" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;jiggle=2;fillStyle=hatch;curveFitting=1;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" parent="-8DytawZk3W45QFedWNG-55" vertex="1">
           <mxGeometry x="49" y="140" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-8DytawZk3W45QFedWNG-59" value="Operation Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="-8DytawZk3W45QFedWNG-55" vertex="1">
+        <mxCell id="-8DytawZk3W45QFedWNG-59" value="User Center" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="-8DytawZk3W45QFedWNG-55" vertex="1">
           <mxGeometry x="64" y="10" width="90" height="35" as="geometry" />
         </mxCell>
         <mxCell id="-8DytawZk3W45QFedWNG-62" value="" style="endArrow=classic;html=1;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="-8DytawZk3W45QFedWNG-55" edge="1">
@@ -1982,7 +1982,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="-8DytawZk3W45QFedWNG-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;sketch=1;curveFitting=1;jiggle=2;strokeColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="4270" width="1800" height="1340" as="geometry" />
+          <mxGeometry x="436" y="4267" width="1830" height="1356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
